@@ -14,7 +14,7 @@ Our system leverages deep learning methods to automatically interpret and classi
 
 ## PRE-TRAINED MODELS:
 
-Please note that the pre-trained machine learning models used in this project are not included in the GitHub repository due to their large file sizes. However, if you require access to these models, please feel free to reach out me at [jayakumarb8055@gmail.com](mailto:ram544new@gmail.com) and I will be happy to provide them to you.
+Please note that the pre-trained machine learning models used in this project are not included in the GitHub repository due to their large file sizes. However, if you require access to these models, please feel free to reach out me at [ram544new@gmail.com](mailto:ram544new@gmail.com) and I will be happy to provide them to you.
 
 
 Once downloaded, place the model files in the `models` directory of the project to use them for inference.
